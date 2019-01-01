@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* :computer:I program in severals *programming languages*: 
+  * **C++**
+  * **Javascript**
+  * Pascal
+  
+- :sparkles:I also love foreign languages. I'm learning these _foreign languges_:
+  - __Chinese__
+  - Japanese
+  - Spanish
