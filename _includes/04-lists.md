@@ -1,17 +1,17 @@
 * My favourite fruits:
-  * Water melon
-  * Guava
-  * Apple
-  * Orange
-  * Raspberry
+  * Water melon :watermelon:
+  * Pear :pear:
+  * Apple :apple:
+  * Orange :orange:
+  * Raspberry :strawberry:
   
-* My favourite books:
+* My favourite books: :book:
   * The Fountainhead
   * Doraemon
 
-* My favourite animes:
-  * Naruto
-  * Kuroko No Basket
+* My favourite animes: :tokyo_tower: :six_pointed_star:  :kimono:
+  * Naruto :ramen: :dango:
+  * Kuroko No Basket :basketball:
   * Hotaru
-  * Charlotte
+  * Charlotte :gem:
 
